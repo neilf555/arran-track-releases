@@ -16,6 +16,12 @@ Download the named `Arran-vVERSION.zip` release asset. GitHub's automatic "Sourc
 
 Each ZIP includes the main island model and the coast overlay together. Keep both KN5 files and `models.ini` in place. Custom Shaders Patch is recommended for the GrassFX configuration.
 
+## Optional Arran Warp
+
+[Download Arran Warp 1.0](https://github.com/neilf555/arran-track-releases/releases/download/v0.1.0-alpha.1/ArranWarp-v1.0.zip) and read the [installation instructions](https://github.com/neilf555/arran-track-releases/releases/download/v0.1.0-alpha.1/ArranWarp-INSTALL.md). Extract the app ZIP into your Assetto Corsa installation directory to install `apps/lua/ArranWarp/`. Open Arran Warp from the in-game app list in an offline Practice session on Arran with CSP active. Teleporting requires CSP physics access.
+
+For v0.1.0-alpha.1, install the app separately alongside the track ZIP. Future combined track bundles include the app, with a standalone app ZIP available as well.
+
 ## Preview status
 
 These are development builds. Read each release's limitations and testing status before installing. Preview images are Blender renders of the packaged models; in-game lighting and CSP effects may differ.
